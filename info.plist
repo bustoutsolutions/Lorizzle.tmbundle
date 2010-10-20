@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Lorizzle</string>
+	<key>ordering</key>
+	<array>
+		<string>9728F2AB-23FA-4F2F-9767-74A310F4F3FA</string>
+		<string>17EB03EB-CE7D-457D-8F11-7BEE50C00E8A</string>
+		<string>65F1C542-2B84-4814-ACCC-044BA28CBF71</string>
+		<string>B7F7F84D-F9D7-40D9-BB1C-D6035D7C49D8</string>
+		<string>752B5B89-3976-4751-962D-D085BFFD3B54</string>
+	</array>
+	<key>uuid</key>
+	<string>7E7930A3-55F5-486E-BD8C-E05197462B49</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Lo'em ipsum dolo' set amet, cornsecketur adipisicin' elit, sed does eiusmod tempo' incididunt ut labo'e et dolo'e magna aliqua. Ut inim ad minim veniam, quis nostrud exercitashun ullamco labo'is nisi ut aliquip ex ea commodo cornsequat. Duis aute irure dolo' in reprehennerit in voluppate velit esse cillum dolo'e eu fugiat nulla pariatur. 'Cepteur sint occaecat cupidatat non proident, sunt in cu'pa qui officia deserunt mollit anim id ess labo'um, dawgone it.</string>
+	<key>name</key>
+	<string>Redneck</string>
+	<key>tabTrigger</key>
+	<string>lorizzle</string>
+	<key>uuid</key>
+	<string>752B5B89-3976-4751-962D-D085BFFD3B54</string>
+</dict>
+</plist>
